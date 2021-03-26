@@ -22,11 +22,11 @@ The challenge is to create a project of your own and something about you like, c
 
 ## #1 You don't need it! Don't go to StackOverflow!!!
 ![](https://media.giphy.com/media/IRkqguqMTKUne/giphy.gif)
-- Please know how and why you are doing stuff on GOlang, use the [documentationns](https://golang.org/doc/) and the code [proposals](https://github.com/golang/proposal) to understand what you're doing, like how packages works or why go does not have reference types e etc..
+- Please know how and why you are doing stuff on Rustlang, use the [documentationns](https://www.rust-lang.org/learn) and the code [proposals](https://github.com/rust-lang/rfcs) to understand what you're doing, like how packages works or why rust does not have garbage collector e etc..
 
-## #2 Respects the language rules, install Go linter to help you
+## #2 Respects the language rules, install Rust linter to help you
 ![](https://media.giphy.com/media/MWDLf1EIUsoNy/giphy.gif)
-- Learn how to do the right thing with go, see the explanation at rule #1 .
+- Learn how to do the right thing with rust, see the explanation at rule #1 .
 
 ## #3 Instead of break the Rule #1, ask your friends for help. We will be glad to assist you!
 ![](https://media.giphy.com/media/1MayKbFuSKE1O/giphy.gif)
